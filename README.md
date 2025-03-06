@@ -1,1 +1,1 @@
-# raven-s-repo
+# IPT2-MIDTERM-PROJECT-TEMPLATE
