@@ -1,1 +1,1 @@
-# IPT2-MIDTERM-PROJECT-TEMPLATE
+# GROUP 6 repository 
