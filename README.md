@@ -1,1 +1,2 @@
-# GROUP 6 repository 
+# IPT2-MIDTERM-PROJECT-GROUP-4
+BSIT 2-3
